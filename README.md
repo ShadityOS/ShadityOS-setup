@@ -1,9 +1,9 @@
 # ShadityOS Setup Script
 (BETA) - The initial setup script for ShadityOS
 ## Plans for ShadityOS Setup
-ShadityOS Patcher has plans to come out in ShadityOS v1.2.0 or v1.3.0
+ShadityOS Setup Script has plans to come out in ShadityOS v1.2.0 or v1.3.0
 ### Todo:
-- [x] Create the the script itself (Uploading Soon!)
+- [x] Create the the script itself (Uploaded as of 25th of January 2022)
 - [ ] Include in ShadityOS itself at some point
 - [ ] Work on getting it out of BETA
 
